@@ -1,1 +1,36 @@
 /*Personal Web Page Style Sheet */
+body {
+background-color: red;
+    
+}
+h1{
+    color: black;
+    text-align:center;
+    
+}
+
+h2{
+    color:black;
+    text-align:center;
+    
+}
+h3{
+   color: Black;
+    Text-align: center;
+    
+}
+ul{
+    color: white;
+    text-align: left;
+    
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+h2 {
+  font-family: "Times New Roman" , serif;
+  font-size: 32px;
+}
